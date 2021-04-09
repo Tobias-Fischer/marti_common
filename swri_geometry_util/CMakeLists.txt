@@ -34,6 +34,7 @@ catkin_package(
     tf
   DEPENDS
     OpenCV
+    GEOS
 )
 
 include_directories(include)
